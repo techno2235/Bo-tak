@@ -3,3 +3,4 @@
 .
 .coścoś
 czemu nie
+proste
