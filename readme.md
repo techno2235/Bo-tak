@@ -2,3 +2,4 @@
 .
 .
 .coścoś
+czemu nie
